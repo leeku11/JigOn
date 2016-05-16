@@ -1,0 +1,47 @@
+c:\users\bolero\documents\visual studio 2013\Projects\KeyboardDef\KeyboardDef\bin\Debug\KeyboardDef.exe.config
+c:\users\bolero\documents\visual studio 2013\Projects\KeyboardDef\KeyboardDef\bin\Debug\KeyboardDef.exe
+c:\users\bolero\documents\visual studio 2013\Projects\KeyboardDef\KeyboardDef\bin\Debug\KeyboardDef.pdb
+c:\users\bolero\documents\visual studio 2013\Projects\KeyboardDef\KeyboardDef\obj\Debug\KeyboardDef.csprojResolveAssemblyReference.cache
+c:\users\bolero\documents\visual studio 2013\Projects\KeyboardDef\KeyboardDef\obj\Debug\MainWindow.baml
+c:\users\bolero\documents\visual studio 2013\Projects\KeyboardDef\KeyboardDef\obj\Debug\MainWindow.g.cs
+c:\users\bolero\documents\visual studio 2013\Projects\KeyboardDef\KeyboardDef\obj\Debug\App.g.cs
+c:\users\bolero\documents\visual studio 2013\Projects\KeyboardDef\KeyboardDef\obj\Debug\KeyboardDef_MarkupCompile.cache
+c:\users\bolero\documents\visual studio 2013\Projects\KeyboardDef\KeyboardDef\obj\Debug\KeyboardDef.g.resources
+c:\users\bolero\documents\visual studio 2013\Projects\KeyboardDef\KeyboardDef\obj\Debug\KeyboardDef.Properties.Resources.resources
+c:\users\bolero\documents\visual studio 2013\Projects\KeyboardDef\KeyboardDef\obj\Debug\KeyboardDef.csproj.GenerateResource.Cache
+c:\users\bolero\documents\visual studio 2013\Projects\KeyboardDef\KeyboardDef\obj\Debug\KeyboardDef.exe
+c:\users\bolero\documents\visual studio 2013\Projects\KeyboardDef\KeyboardDef\obj\Debug\KeyboardDef.pdb
+c:\users\bolero\documents\visual studio 2013\Projects\KeyboardDef\KeyboardDef\obj\Debug\App.baml
+C:\Projects\Keyboard\KeyboardDef\KeyboardDef\bin\Debug\KeyboardDef.exe.config
+C:\Projects\Keyboard\KeyboardDef\KeyboardDef\obj\Debug\KeyboardDef.exe
+C:\Projects\Keyboard\KeyboardDef\KeyboardDef\obj\Debug\KeyboardDef.pdb
+C:\Projects\Keyboard\KeyboardDef\KeyboardDef\bin\Debug\KeyboardDef.exe
+C:\Projects\Keyboard\KeyboardDef\KeyboardDef\bin\Debug\KeyboardDef.pdb
+C:\Projects\Keyboard\KeyboardDef\KeyboardDef\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Projects\Keyboard\KeyboardDef\KeyboardDef\obj\Debug\ColorPickerDropdown.baml
+C:\Projects\Keyboard\KeyboardDef\KeyboardDef\obj\Debug\MainWindow.baml
+C:\Projects\Keyboard\KeyboardDef\KeyboardDef\obj\Debug\App.baml
+C:\Projects\Keyboard\KeyboardDef\KeyboardDef\obj\Debug\ColorPickerDropdown.g.cs
+C:\Projects\Keyboard\KeyboardDef\KeyboardDef\obj\Debug\MainWindow.g.cs
+C:\Projects\Keyboard\KeyboardDef\KeyboardDef\obj\Debug\App.g.cs
+C:\Projects\Keyboard\KeyboardDef\KeyboardDef\obj\Debug\KeyboardDef_MarkupCompile.cache
+C:\Projects\Keyboard\KeyboardDef\KeyboardDef\obj\Debug\KeyboardDef.g.resources
+C:\Projects\Keyboard\KeyboardDef\KeyboardDef\obj\Debug\KeyboardDef.Properties.Resources.resources
+C:\Projects\Keyboard\KeyboardDef\KeyboardDef\obj\Debug\KeyboardDef.csproj.GenerateResource.Cache
+C:\Projects\Keyboard\KeyboardDef\KeyboardDef\obj\Debug\KeyboardDef.csprojResolveAssemblyReference.cache
+E:\Projects\KeyboardDef\KeyboardDef\bin\Debug\KeyboardDef.exe.config
+E:\Projects\KeyboardDef\KeyboardDef\bin\Debug\KeyboardDef.exe
+E:\Projects\KeyboardDef\KeyboardDef\bin\Debug\KeyboardDef.pdb
+E:\Projects\KeyboardDef\KeyboardDef\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\Projects\KeyboardDef\KeyboardDef\obj\Debug\ColorPickerDropdown.baml
+E:\Projects\KeyboardDef\KeyboardDef\obj\Debug\MainWindow.baml
+E:\Projects\KeyboardDef\KeyboardDef\obj\Debug\App.baml
+E:\Projects\KeyboardDef\KeyboardDef\obj\Debug\ColorPickerDropdown.g.cs
+E:\Projects\KeyboardDef\KeyboardDef\obj\Debug\MainWindow.g.cs
+E:\Projects\KeyboardDef\KeyboardDef\obj\Debug\App.g.cs
+E:\Projects\KeyboardDef\KeyboardDef\obj\Debug\KeyboardDef_MarkupCompile.cache
+E:\Projects\KeyboardDef\KeyboardDef\obj\Debug\KeyboardDef.g.resources
+E:\Projects\KeyboardDef\KeyboardDef\obj\Debug\KeyboardDef.Properties.Resources.resources
+E:\Projects\KeyboardDef\KeyboardDef\obj\Debug\KeyboardDef.csproj.GenerateResource.Cache
+E:\Projects\KeyboardDef\KeyboardDef\obj\Debug\KeyboardDef.exe
+E:\Projects\KeyboardDef\KeyboardDef\obj\Debug\KeyboardDef.pdb
